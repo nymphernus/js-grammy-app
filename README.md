@@ -26,7 +26,7 @@
         <li><strong>Узнать температуру в своём городе</strong> - Запрашивает у пользователя его местоположение или название города для получения погоды.</li>
     </ul>
     <h2>Скриншоты</h2>
-    <p><img src="https://github.com/user-attachments/assets/6c5e7b79-5bf1-4e1b-80fa-aa3abe1bdde6" alt="img_1"></p>
-    <p><img src="https://github.com/user-attachments/assets/59b7b054-d5e1-4ba4-b44e-a3b5a4b71895" alt="img_2"></p>
+    <p align="center"><img src="https://github.com/user-attachments/assets/6c5e7b79-5bf1-4e1b-80fa-aa3abe1bdde6" alt="img_1"></p>
+    <p align="center"><img src="https://github.com/user-attachments/assets/59b7b054-d5e1-4ba4-b44e-a3b5a4b71895" alt="img_2"></p>
 </body>
 
